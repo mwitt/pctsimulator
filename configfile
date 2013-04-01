@@ -1,0 +1,14 @@
+3DIMENSIONAL(bool)              0
+XPARTITIONS(int)                160
+YPARTITIONS(int)                200
+ZPARTITION0S(int)               1
+BOXWIDTH(float_mm)              160.0
+BOXLENGTH(float_mm)             200.0
+BOXHEIGHT(float_mm)             1
+HISTORIES(int)                  320000
+TOTALPROJECTIONANGLES(int)      180
+STARTANGLE(int_degrees)         1
+ANGLESPACE(int_degrees)         2
+SIMULATIONFOLDERNAME(string)    My2dSim
+PATHOPTION(int)                 1
+PHANTOMOPTION(int)              1
